@@ -1,0 +1,10 @@
+{
+  "title": {
+    "fr": "Jeu de dames",
+    "en": "Checkers game"
+  },
+  "description": {
+    "fr": "Réalisation d’un jeu de dames en Python avec Pygame, développé en terminale, incluant un bot permettant de jouer en solo.",
+    "en": "Development of a checkers game in Python using Pygame, created during high school, including an AI bot to play solo."
+  }
+}
